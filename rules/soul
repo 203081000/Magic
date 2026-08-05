@@ -1,0 +1,51 @@
+# Generated from Stream-2026-08-05 17_03_22.har
+# Scope: Soul app observed domains and third-party dependencies.
+
+# Soul first-party
+DOMAIN-SUFFIX,soulapp.cn
+
+# Soul game / live integrations
+DOMAIN-SUFFIX,soofun.online
+DOMAIN-SUFFIX,luk.live
+DOMAIN-SUFFIX,tlivesource.com
+DOMAIN-SUFFIX,whyrtc.com
+DOMAIN-SUFFIX,my-imcloud.com
+
+# ByteDance / Pangolin / Volcengine SDKs
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,oceanengine.com
+DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-SUFFIX,volceapplog.com
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,volcvod.com
+
+# Tencent GDT / Beacon / TRTC SDKs
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,e.qq.com
+DOMAIN-SUFFIX,ugdtimg.com
+DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,3gimg.qq.com
+DOMAIN-SUFFIX,gtimg.cn
+DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,m.qq.com
+DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,tfogc.com
+
+# JD ad / analytics SDKs
+DOMAIN-SUFFIX,jd.com
+
+# Baidu map / security SDKs
+DOMAIN-SUFFIX,map.baidu.com
+DOMAIN-SUFFIX,sofire.baidu.com
+DOMAIN-SUFFIX,bdurl.net
+
+# Risk control / CDN / attribution SDKs
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,zztfly.com
+DOMAIN-SUFFIX,qchannel01.cn
+DOMAIN-SUFFIX,qchannel03.cn
+DOMAIN-SUFFIX,sruner.com
